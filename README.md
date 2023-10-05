@@ -6,7 +6,7 @@ Somos as LadiesCode um grupo de estudantes dedicadas ao desenvolvimento de softw
 
 ## Tecnologias 👩‍💻
 
-Estas são algumas das tecnologias, com as quais vamos aprender e desenvolver nossos projetos.
+Estas são algumas das tecnologias, que vamos desenvolver nossos projetos.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-square&logo=css3)
