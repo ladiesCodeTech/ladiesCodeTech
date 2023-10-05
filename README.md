@@ -47,8 +47,6 @@ Estas são algumas das tecnologias, que vamos desenvolver nossos projetos.
 	    <td align="center" valign="top">  <a href="https://github.com/polysaantana"> <img src="https://avatars.githubusercontent.com/u/138715912?v=4" width="115" alt="Polyanna Santana"/>
           <br /> <p>Polyanna</p> </a>
       </td>
-	<td align="center" valign="top">  <a href="https://github.com/divina37"> <img src="https://media.licdn.com/dms/image/C4E03AQHZKCkTQNWTxQ/profile-displayphoto-shrink_800_800/0/1584478149317?e=1698883200&v=beta&t=6v3F9ccN6hytUW2RP-Z8WZf34_Y1OeDkvteDm9e6Jj8" width="115" alt="Divina"/>
-          <br /> <p>Divina</p> </a>
       </td>
     </tr>
   </tbody>
