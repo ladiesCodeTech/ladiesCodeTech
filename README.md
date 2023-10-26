@@ -35,7 +35,7 @@ Estas são algumas das tecnologias, que vamos desenvolver nossos projetos.
 	<td align="center" valign="top">  <a href="https://github.com/IsisPedroni"> <img src="https://lh3.googleusercontent.com/a/AAcHTtfOjLexK5MC9yJni8MpkkcQdAwOhzTiHYw4P56g4Me-4eY=s288-c-no" width="115" alt="Ísis Pedroni"/>
           <br /> <sub>Vice-Monitora</sub> <p>Ísis Pedroni</p> </a>
       </td>
-	<td align="center" valign="top">  <a href="https://github.com/laisa-alves"> <img src="https://media.licdn.com/dms/image/D4D03AQGmkwbOiv3BOg/profile-displayphoto-shrink_200_200/0/1686140699017?e=1697673600&v=beta&t=BFXBi9x2oyb38BElL9LHju01o2CYwhXev4BlMs-QF-s" width="115" alt="Laísa Alves"/>
+	<td align="center" valign="top">  <a href="https://github.com/laisa-alves"> <img src="https://avatars.githubusercontent.com/u/124175402?v=4" width="115" alt="Laísa Alves"/>
           <br /> <p>Laísa Alves</p> </a>
       </td>
 	<td align="center" valign="top">  <a href="https://github.com/GrasieleRocha"> <img src="https://avatars.githubusercontent.com/u/104076058?v=4" width="115" alt="Grasiele Miranda Rocha"/>
