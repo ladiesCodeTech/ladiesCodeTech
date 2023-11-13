@@ -41,7 +41,7 @@ Estas são algumas das tecnologias, que vamos desenvolver nossos projetos.
 	<td align="center" valign="top">  <a href="https://github.com/GrasieleRocha"> <img src="https://avatars.githubusercontent.com/u/104076058?v=4" width="115" alt="Grasiele Miranda Rocha"/>
           <br /> <p>Grasiele</p> </a>
       </td>
-	<td align="center" valign="top">  <a href="https://github.com/marianadefatima"> <img src="https://media.licdn.com/dms/image/C5603AQG9hobE51dOSw/profile-displayphoto-shrink_800_800/0/1644498366716?e=1698883200&v=beta&t=dJ6NoQvv8NnYUNTXlVRB7Zm5pRNb8pHTUKtTLd-TmIg" width="115" alt="Mariana de Fátima"/>
+	<td align="center" valign="top">  <a href="https://github.com/marianadefatima"> <img src="https://avatars.githubusercontent.com/u/139874920?v=4" width="115" alt="Mariana de Fátima"/>
           <br /> <p>Mariana</p> </a>
       </td>
 	    <td align="center" valign="top">  <a href="https://github.com/polysaantana"> <img src="https://avatars.githubusercontent.com/u/138715912?v=4" width="115" alt="Polyanna Santana"/>
